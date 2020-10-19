@@ -7,7 +7,7 @@ My name is pxiaoer, I'm a Bug Bounty Hunter, NLPer and AISECer.
 * 🎥 YouTube: [P小二](https://www.youtube.com/channel/UCbyw8bPUuNgavS1WQVIjkvA)
 * 🐦 Twitter: [@pxiaoer](https://twitter.com/pxiaoer)
 
-# Project
+# 😺 Project
 * 🐍 [FlyPython](http://flypython.com)
 * 🎬 Kol tools is coming soon
 
@@ -20,7 +20,7 @@ My name is pxiaoer, I'm a Bug Bounty Hunter, NLPer and AISECer.
 * 📝 知乎: [P小二](https://www.zhihu.com/people/xxg1413)
 * 📷 B站: [P小二](https://space.bilibili.com/95159692)
 
-# 项目
+# 😺 项目
 * 🐍 飞蟒Python社区: [flypython](http://flypython.com)
 * 🎬 剪辑辅助工具： 敬请期待
 
