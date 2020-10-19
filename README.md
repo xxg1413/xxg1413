@@ -1,15 +1,15 @@
 # 👨‍💻 About me
 
-My name is pxiaoer, I'm a Bug Bounty Hunter,NLPer and AISECer.
+My name is pxiaoer, I'm a Bug Bounty Hunter, NLPer and AISECer.
 
 # 🧐 Find Me
 * 💻 Website: [pxiaoer's blog](http://pxiaoer.blog)
 * 🎥 YouTube: [P小二](https://www.youtube.com/channel/UCbyw8bPUuNgavS1WQVIjkvA)
 * 🐦 Twitter: [@pxiaoer](https://twitter.com/pxiaoer)
 
-# project
-* 🐍 [flypython](http://flypython.com)
-* 🎬 kol tools is coming soon
+# Project
+* 🐍 [FlyPython](http://flypython.com)
+* 🎬 Kol tools is coming soon
 
 # 👨‍💻关于我
 
