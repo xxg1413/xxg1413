@@ -10,7 +10,7 @@
 * 📒 即刻：[P小二](https://jike.city/pxiaoer)
 
 # 😺 项目
-* 🐍 飞蟒Python社区: [flypython](http://flypython.com)
+敬请期待
   
 
 ![Hacker](https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp)
