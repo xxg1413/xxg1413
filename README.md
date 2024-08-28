@@ -3,7 +3,7 @@
 你好，我是P小二，目前是一名AIGC领域的创业者，熟悉NLP，主要关注AI相关算法的架构和落地。
 
 # 🧐 其他平台
-* 💻 博客: [P小二的播客](http://pxiaoer.blog)
+* 💻 博客: [P小二的博客](http://pxiaoer.blog)
 * 📚 公众号: [P小二](https://mp.weixin.qq.com/s/mR2nEFQdUGgdcOchabMrbQ)
 * 📒 即刻：[P小二](https://jike.city/pxiaoer)
 
