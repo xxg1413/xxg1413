@@ -8,8 +8,8 @@
 
 ### AI Coding 与产品创新
 
-- 🤖 [OpenBot](https://openbot.ai/)：Robotics AI 基础设施
-- 🐒 [Wukong](https://wukong.today/)：AI Coding Agent
+- 🤖 [OpenBotAI](https://openbot.ai/)：Robotics AI 基础设施
+- 🐒 [Wukong Code](https://wukong.today/)：AI Coding Agent
 - 🪶 [DeepFeather](https://deepfeather.com/)：AI 产品可行性分析与产品蓝图
 - 💰 [ModelPriceLab](https://modelpricelab.com/)：大模型成本、质量与迁移决策工具
 
