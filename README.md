@@ -11,7 +11,7 @@
 - 🤖 [OpenBot](https://openbot.ai/)：Robotics AI 基础设施
 - 🐒 [Wukong](https://wukong.today/)：AI Coding Agent
 - 🪶 [DeepFeather](https://deepfeather.com/)：AI 产品可行性分析与产品蓝图
-- 💰 ModelPriceLab：大模型成本、质量与迁移决策工具
+- 💰 [ModelPriceLab](https://modelpricelab.com/)：大模型成本、质量与迁移决策工具
 
 ### AI 内容与创作
 
